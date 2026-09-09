@@ -1,0 +1,16 @@
+{
+  "name": "cybershade-bot",
+  "version": "1.0.0",
+  "description": "CyberShade-bot - Bot WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "axios": "^1.7.7",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "@hapi/boom": "^10.0.1"
+  }
+}
